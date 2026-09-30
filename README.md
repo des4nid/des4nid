@@ -22,6 +22,7 @@ tenho essas competências investigativas:
 -  **CSINT** manjo pkrl, (disso a gente nao fala sobre meus metodos AKKAAAKAAA).
 -  **HUMINT** manjo pkrl tb, classifico isso aq como analise comportamental e tbm um pouco de interaçao direta com pessoas do escopo investigativo.
 
+curto mexer com automação e workflow tbm, make.com, railway.app, n8n etc.
 
 <p align="center">
   <p>Falo isso dai:</p>
