@@ -1,21 +1,9 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Flagging-Expert-00BFFF?style=for-the-badge&logo=datadog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Threat_Hunter-Specialist-FF4500?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/OSINT-Dog-0d1117?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-Nerd-FF6F00?style=for-the-badge&logo=relay&logoColor=white" />
-</p>
+apesar de nao usar github profissionalmente sla aí uns bglh sobre mim: 
 
-<p align="center">
-  <a href="#english"><strong>🇬🇧 English</strong></a> •
-  <a href="#portugues"><strong>🇧🇷 Português</strong></a> •
-  <a href="#russian"><strong>🇷🇺 Русский</strong></a> 
-</p>
+Mexo com investigação digital e programação em geral mas faço isso por puro hobby.
+mas dependendo posso vender freelance, investigação etc, faço isso as vzs.
 
-## [#] Investigadora Digital
-
-[*] **Falo:** Português (nativo), Russo (intermediário), Inglês (fluente).
-
-### [$] Já passei pelo crivo de:
+alguns dos meus relatórios investigativos ja foram aceitos como provas em processos internos e denúncias nas seguintes instituições governamentais:
 
 <p align="center">
   <img src="https://i.ibb.co/Wpdg10m8/Policia-Federal-Logo.png" alt="Polícia Federal" width="120" height="120" style="border-radius: 10px; object-fit: contain; margin: 0 15px;" />
@@ -23,20 +11,25 @@
   <img src="https://i.ibb.co/1G2GM7JG/background-remove-051ce642.png" alt="Polícia Civil" width="120" height="120" style="border-radius: 10px; object-fit: contain; margin: 0 15px;" />
 </p>
 
-### [$] OSINT
+tenho essas competências investigativas:
 
-- **SOCMINT:** Rasgo perfil de rede social, conexão e padrão de comportamento.
-- **GEOINT:** Dados geo, imagem de satélite, reconstrução de trajetória.
-- **IMINT:** Metadado de imagem e vídeo — onde foi tirado, com que, quando.
-- **FININT:** Rastreio de fluxo financeiro público e indicador econômico.
-- **CSINT:** Integração de fontes fechadas (INTELX, Leaks).
-- **Active Espionage:** Técnicas dinâmicas de investigação em ambiente digital.
-- **HUMINT**: Uso de fontes humanas e engenharia social para auxílio investigativo.
+-  **SOCMINT** sou pica! bglh de ficar investigando coisa a partir de rede social.
+-  **GEOINT** sou boa. bglh de analise geografica, mapa etc.
+-  **IMINT** sou pica!!!! ver metadados, analise da propria imagem em si tb, analise de ruído e outras brisa.
+-  **FININT** sou boa ate, negocio de ver detalhes de transaçao de cripto e os crl.
+-  **CSINT** manjo pkrl, (disso a gente nao fala sobre meus metodos AKKAAAKAAA).
+-  **HUMINT** manjo pkrl tb, classifico isso aq como analise comportamental e tbm um pouco de interaçao direta com pessoas do escopo investigativo.
 
----
 
-### [$] Tecnologias que domino:
+<p align="center">
+  <p>Falo isso dai:</p>
+  <a href="#english"><strong>🇬🇧 Inglês Fluente</strong></a> •
+  <a href="#portugues"><strong>🇧🇷 Português Nativo</strong></a> •
+  <a href="#russian"><strong>🇷🇺 Russo Intermediário</strong></a> •
+  <a href="#spanish"><strong>🇪🇸 Espanhol rioplatense intermediario</strong></a>
+</p>
 
+<p>Mexo com isso:</p>
 <p>
   <img src="https://img.shields.io/badge/Python-Experienced-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -46,3 +39,5 @@
   <img src="https://img.shields.io/badge/Shell_Script-Experienced-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-Practical-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
+
+tudo bagunçado mesmo kisifoda, so uso sapoha pra marcar repo e ver source alheio ou fazer fork ai.
