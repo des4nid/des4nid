@@ -1,4 +1,6 @@
-apesar de nao usar github profissionalmente sla aí uns bglh sobre mim: 
+![imagem](https://i.pinimg.com/736x/fd/29/a5/fd29a5b38c97f785e6d44069abd7073f.jpg)
+
+apesar de nao usar github profissionalmente sla aí uns bglh q eu sei pq sim
 
 Mexo com investigação digital e programação em geral mas faço isso por puro hobby.
 mas dependendo posso vender freelance, investigação etc, faço isso as vzs.
